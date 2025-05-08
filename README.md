@@ -1,7 +1,8 @@
 # ToolyFox
 An all in one (easy to) self-host toolbox.
 
-*Development is pending (I'm planning to start this summer)*
+> [!NOTE]
+> *Development is pending (I'm planning to start this summer, and have a first stable version out before the end of september)*
 
 Below are the features currently planned, feel free to suggest (through feature-request issues) any features or functionality you'd like to see as well :)
 
